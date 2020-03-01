@@ -1,4 +1,6 @@
 alias crcc="crc console"
+alias crcC="crc console --credentials"
 alias crcd="crc delete"
+alias crci="crc status"
 alias crcs="crc start"
 alias crcS="crc stop"

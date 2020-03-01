@@ -24,6 +24,12 @@ CodeReady Containers (CRC) module for Zsh configuration framework [Prezto](https
 ## Aliases
 
 - `crcc` is an alias for `crc console`
+- `crcC` is an alias for `crc console --credentials`
 - `crcd` is an alias for `crc delete`
+- `crci` is an alias for `crc status`
 - `crcs` is an alias for `crc start`
 - `crcS` is an alias for `crc stop`
+
+## Contributing
+
+Please follow the `Zprezto` [guidelines](https://github.com/sorin-ionescu/prezto/blob/master/CONTRIBUTING.md) when contributing.
