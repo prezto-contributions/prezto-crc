@@ -1,6 +1,6 @@
-# Prezto CodeReady Containers (CRC) module
+# prezto-crc
 
-CodeReady Containers (CRC) module for Zsh configuration framework [Prezto](https://github.com/sorin-ionescu/prezto).
+[CodeReady Containers](https://github.com/code-ready/crc) (CRC) module for the [Prezto](https://github.com/sorin-ionescu/prezto) Zsh configuration framework.
 
 ## Installation
 
