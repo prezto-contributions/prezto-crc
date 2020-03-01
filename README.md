@@ -11,14 +11,13 @@ CodeReady Containers (CRC) module for Zsh configuration framework [Prezto](https
 
 2. Clone this repository:
     ```
-    cd
-    git clone https://github.com/tarak/prezto-crc.git ~/.zprezto-contrib/crc
+    git clone https://github.com/prezto-contributions/prezto-crc.git ~/.zprezto-contrib/crc
     ```
 
 3. Add the module to the Prezto modules to load in your `~/.zpreztorc`:
     ```
     zstyle ':prezto:load' pmodule \
-    crc
+      crc
     ```
 
 ## Aliases
@@ -29,7 +28,3 @@ CodeReady Containers (CRC) module for Zsh configuration framework [Prezto](https
 - `crci` is an alias for `crc status`
 - `crcs` is an alias for `crc start`
 - `crcS` is an alias for `crc stop`
-
-## Contributing
-
-Please follow the `Zprezto` [guidelines](https://github.com/sorin-ionescu/prezto/blob/master/CONTRIBUTING.md) when contributing.
