@@ -10,6 +10,4 @@ function _crc(){
 
 compdef _crc crc
 
-source <(oc completion zsh)
-
 source "${0:h}/alias.zsh"
